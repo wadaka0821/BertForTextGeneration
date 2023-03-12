@@ -15,3 +15,14 @@ STEP2
   
 Above example is for illustration purposes only.  
 Generated Text is terrible in the current version.  
+
+
+# Generated Text(Using RoBerta)  
+ 
+※mask_length = 10  
+
+- Input          : The man eats  
+  Generated Text : The man eats the chicken in the room</s>  
+  
+- Input          : My name is Clara and I am  
+  Generated Text : My name is Clara and I am 18yr. and a young woman in South Carolina</s>
